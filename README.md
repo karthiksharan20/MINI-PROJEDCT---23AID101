@@ -1,8 +1,8 @@
-🐾 Animal Hangman Game 🐾
+Animal Hangman Game
 
 A classic game of Hangman built entirely with HTML, CSS, and vanilla JavaScript. This edition features a fun list of animal names to guess.
 
-✨ Features
+Features:
 
 Responsive Design: Optimized for both desktop and mobile screens.
 
@@ -14,7 +14,7 @@ Keyboard Support: Play seamlessly using your physical keyboard (A-Z keys).
 
 Themed Word List: Guess over 20 different common and exotic animals.
 
-🚀 Getting Started
+Getting Started:
 
 Since this project is a single-file application, it's incredibly easy to run!
 
@@ -35,7 +35,7 @@ Locate the index.html file in the cloned folder and open it directly with your w
 
 That's it! The game will load immediately.
 
-🕹️ Gameplay
+Gameplay:
 
 Start: The game selects a random animal name from its internal list.
 
